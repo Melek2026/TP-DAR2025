@@ -10,6 +10,7 @@ public class client {
 		/*prendre la main pour éccrire dans le flux de communication*/
 		OutputStream os=socket.getOutputStream();
 		os.write(210);
+		System.out.println("h");
 
 	}
 
