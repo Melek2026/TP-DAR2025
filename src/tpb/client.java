@@ -9,7 +9,7 @@ public class client {
 		/*le moment ou le client connecte au serveur*/
 		System.out.println("je suis connecté");
 		
-		System.out.println("hello");
+		
 	
 	
 		
