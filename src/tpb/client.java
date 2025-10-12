@@ -8,8 +8,8 @@ public class client {
 		Socket socket=new Socket("0.0.0.0",3000);
 		/*le moment ou le client connecte au serveur*/
 		System.out.println("je suis connecté");
-		System.out.println("test");
-		System.out.println("aloo");		
+		
+		System.out.println("hello");
 	
 	
 		
